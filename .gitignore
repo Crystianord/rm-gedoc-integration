@@ -1,0 +1,18 @@
+# Credenciais do servidor (não commitar)
+local_config.py
+
+# Ambiente virtual
+.venv/
+
+# Env de desenvolvimento
+.env
+
+# Artefatos Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Relatórios e dumps de diagnóstico
+*.xlsx
+_ls_dump.json
+integration.log
